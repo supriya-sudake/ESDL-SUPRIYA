@@ -2,7 +2,7 @@
 void main()
 {
   cout<<"welcome to Github";
-  cout<<"Square",<<square();
+  cout<<"Square",<<square(1.0);
 }
 
 
